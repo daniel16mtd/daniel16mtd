@@ -38,3 +38,9 @@
 
 ###
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ffff&text=Segui%20eu%20ai%20po&fontColor=606060&fontSize=28&rotate=-1&section=footer"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daniel16mtd/daniel16mtd/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daniel16mtd/daniel16mtd/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/daniel16mtd/daniel16mtd/output/pacman-contribution-graph.svg">
+</picture>

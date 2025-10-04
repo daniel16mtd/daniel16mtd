@@ -1,3 +1,17 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ffff&text=Olá%20conheça-me!&fontColor=606060&fontSize=28&rotate=-1"/>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+
 <h2 align="left">Hi 👋! My name is Daniel and I'm 16 and I'am from brazil</h2>
 
 ###
@@ -23,3 +37,4 @@
 </div>
 
 ###
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ffff&text=Segui%20eu%20ai%20po&fontColor=606060&fontSize=28&rotate=-1&section=footer"/>

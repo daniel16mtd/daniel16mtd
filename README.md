@@ -4,7 +4,7 @@
 
 <h1 align="center">👋 Olá, eu sou o Daniel!</h1>
 
-<h3 align="center">💻 Desenvolvedor Front-end Júnior | 🌎 16 anos | 🇧🇷 Brasil</h3>
+<h3 align="center">💻 Desenvolvedor Front-end Júnior | 17/02/2009 | 🇧🇷 Brasil</h3>
 
 <p align="center">
   <em>"Sempre curioso, aprendendo um pouco mais a cada dia e buscando evoluir no mundo da programação."</em>

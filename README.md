@@ -12,7 +12,7 @@
 
 ---
 
-### 📊 Meus Status no GitHub
+
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api?username=daniel16mtd&show_icons=true&theme=tokyonight&hide_border=true" media="(prefers-color-scheme: dark)" />
   <source srcset="https://github-readme-stats.vercel.app/api?username=daniel16mtd&show_icons=true&theme=default&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
